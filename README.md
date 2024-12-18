@@ -1,1 +1,1 @@
-参加したいAtCoderBeginnerContestで解いた問題を載せていきます
+参加したAtCoderBeginnerContestで解いた問題を載せていきます。
